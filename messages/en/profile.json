@@ -1,0 +1,76 @@
+{
+  "title": "Profile",
+  "tabs": {
+    "overview": "Overview",
+    "products": "Products",
+    "settings": "Settings"
+  },
+  "hero": {
+    "edit": "Edit profile",
+    "noBio": "Tell us about yourself in settings"
+  },
+  "days": "{count, plural, one {# day} other {# days}}",
+  "stats": {
+    "balance": "Wallet balance",
+    "currency": "UZS",
+    "active": "Active products",
+    "ofTotal": "of {total}",
+    "next": "Next expiry",
+    "none": "None active",
+    "promo": "Your promo code",
+    "copy": "Copy",
+    "copied": "Copied",
+    "org": "Organization",
+    "inn": "Tax ID",
+    "address": "Address",
+    "soon": "Renewing soon",
+    "viewAll": "All products",
+    "topUp": "Top up"
+  },
+  "products": {
+    "all": "All",
+    "active": "Active",
+    "expired": "Expired",
+    "empty": "Nothing here yet",
+    "until": "until {date}",
+    "open": "Open",
+    "status": {
+      "active": "Active",
+      "expiring": "Expiring soon",
+      "expired": "Expired"
+    }
+  },
+  "settings": {
+    "profile": "Profile",
+    "security": "Security",
+    "photo": "Photo",
+    "upload": "Upload",
+    "remove": "Remove",
+    "photoHint": "JPG, PNG or WebP, up to 5 MB",
+    "username": "Name",
+    "email": "Email",
+    "phone": "Phone",
+    "bio": "About",
+    "bioPh": "A few words about you",
+    "password": "New password",
+    "passwordHint": "Leave empty to keep the current one",
+    "confirm": "Repeat password",
+    "save": "Save changes",
+    "saved": "Saved",
+    "errors": {
+      "required": "Required field",
+      "emailInvalid": "Invalid email",
+      "passwordShort": "At least 8 characters",
+      "mismatch": "Passwords don’t match",
+      "avatarInvalid": "Use an image up to 5 MB",
+      "VALIDATION": "Please check your details",
+      "NETWORK": "Can’t reach the server",
+      "UNAUTHORIZED": "Session expired, please sign in again",
+      "REQUEST_FAILED": "Couldn’t save. The email may already be taken"
+    }
+  },
+  "error": {
+    "title": "Couldn’t load your profile",
+    "retry": "Try again"
+  }
+}

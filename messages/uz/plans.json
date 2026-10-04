@@ -1,0 +1,15 @@
+{
+  "title": "Tarif rejalari",
+  "subtitle": "Har qanday hajmdagi biznes uchun shaffof shartlar va moslashuvchan tariflar",
+  "period": "To‘lov davri",
+  "months": "{count} oy",
+  "forPeriod": "{count} oyga",
+  "included": "Nimalar kiradi",
+  "choose": "Tarifni tanlash",
+  "recommended": "Tavsiya etamiz",
+  "compare": "Tariflarni solishtirish",
+  "feature": "Imkoniyatlar",
+  "empty": "Tariflar hozircha mavjud emas",
+  "users": "Tarifga {count} ta foydalanuvchi kiradi",
+  "currency": "so‘m"
+}

@@ -1,0 +1,52 @@
+{
+  "list": {
+    "metaTitle": "Mahsulotlar — All personal soft",
+    "eyebrow": "Mahsulotlar",
+    "title": "Bulutdagi 1C va ERP, ishga tayyor",
+    "subtitle": "Tayyor yechimni tanlang va bulutda ishlashni boshlang: serversiz, o'rnatishsiz.",
+    "filterLabel": "Mavzu bo'yicha filtr",
+    "all": "Hammasi",
+    "empty": "Hozircha mahsulotlar yo'q. Keyinroq qaytib ko'ring."
+  },
+  "card": {
+    "from": "dan",
+    "soon": "Tez orada",
+    "perMonth": "/ oy",
+    "perDays": "/ {days} kun",
+    "price": "{amount} so'm"
+  },
+  "badges": { "New": "Yangi", "Popular": "Ommabop" },
+  "detail": {
+    "back": "Barcha mahsulotlar",
+    "demo": "Demoni ochish",
+    "choosePlan": "Tarifni tanlash",
+    "contact": "Biz bilan bog'lanish",
+    "startingFrom": "Narxi",
+    "usersLabel": "Tarifdagi foydalanuvchilar"
+  },
+  "features": { "eyebrow": "Nimalarga ega bo'lasiz", "playVideo": "Videoni ko'rish: {title}" },
+  "modules": { "eyebrow": "Modullar" },
+  "plans": {
+    "eyebrow": "Tariflar",
+    "title": "Tarifni tanlang",
+    "subtitle": "Oddiy oylik to'lov.",
+    "recommended": "Tavsiya etamiz",
+    "choose": "Tarifni tanlash",
+    "empty": "Bu mahsulot uchun tariflar tayyorlanmoqda.",
+    "usersIncluded": "Kiritilgan foydalanuvchilar: {count}",
+    "extraUser": "Qo'shimcha foydalanuvchi: {price}"
+  },
+  "cta": {
+    "title": "Sinab ko'rishga tayyormisiz?",
+    "text": "Demoni oching yoki biz bilan bog'laning — mos tarifni tanlashga yordam beramiz."
+  },
+  "error": {
+    "title": "Mahsulotlarni yuklab bo'lmadi",
+    "text": "Server hozir javob bermayapti. Qayta urinib ko'ring.",
+    "retry": "Qayta urinish"
+  },
+  "notFound": {
+    "title": "Mahsulot topilmadi",
+    "text": "Bunday mahsulot yo'q yoki o'chirilgan."
+  }
+}

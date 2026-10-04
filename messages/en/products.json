@@ -1,0 +1,52 @@
+{
+  "list": {
+    "metaTitle": "Products — All personal soft",
+    "eyebrow": "Products",
+    "title": "Cloud 1C and ERP, ready to work",
+    "subtitle": "Pick a ready solution and start working in the cloud: no servers, no installation.",
+    "filterLabel": "Filter by topic",
+    "all": "All",
+    "empty": "No products yet. Please check back soon."
+  },
+  "card": {
+    "from": "from",
+    "soon": "Soon",
+    "perMonth": "/ mo",
+    "perDays": "/ {days} days",
+    "price": "{amount} UZS"
+  },
+  "badges": { "New": "New", "Popular": "Popular" },
+  "detail": {
+    "back": "All products",
+    "demo": "Try the demo",
+    "choosePlan": "Choose a plan",
+    "contact": "Contact us",
+    "startingFrom": "Starting from",
+    "usersLabel": "Users included"
+  },
+  "features": { "eyebrow": "What you get", "playVideo": "Play video: {title}" },
+  "modules": { "eyebrow": "Modules" },
+  "plans": {
+    "eyebrow": "Pricing",
+    "title": "Choose your plan",
+    "subtitle": "Simple monthly pricing.",
+    "recommended": "Recommended",
+    "choose": "Choose plan",
+    "empty": "Plans for this product are being prepared.",
+    "usersIncluded": "Users included: {count}",
+    "extraUser": "Extra user: {price}"
+  },
+  "cta": {
+    "title": "Ready to try it?",
+    "text": "Open the demo or contact us, and we'll help you choose the right plan."
+  },
+  "error": {
+    "title": "Couldn't load products",
+    "text": "The server is not responding right now. Please try again.",
+    "retry": "Try again"
+  },
+  "notFound": {
+    "title": "Product not found",
+    "text": "This product doesn't exist or has been removed."
+  }
+}

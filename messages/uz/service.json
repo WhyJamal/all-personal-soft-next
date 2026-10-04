@@ -1,0 +1,81 @@
+{
+  "title": "Xizmatlar",
+  "subtitle": "Kerakli xizmatni tanlang. Narx, davomiylik va asosiy shartlar quyida ko‘rsatilgan.",
+  "cost": "Narxi",
+  "hourly": "soatiga",
+  "daily": "kuniga",
+  "oneTime": "bir martalik to‘lov",
+  "duration": "Davomiyligi",
+  "hour": "soat",
+  "day": "kun",
+  "contact": "Bog‘lanish",
+  "questions": "Savollaringiz bormi?",
+  "questionsText": "Batafsil ma’lumot olish yoki xizmatga buyurtma berish uchun telefon yoki Telegram orqali bog‘laning.",
+  "currency": "so‘m",
+  "items": {
+    "service-1": {
+      "title": "Texnik xizmat ko‘rsatish",
+      "description": "Uskunalarni tekshirish, sozlash va texnik ishlarni bajarish.",
+      "features": [
+        "Uskunalarni tekshirish",
+        "Nosozliklarni aniqlash",
+        "Sozlash va texnik yordam"
+      ]
+    },
+    "service-2": {
+      "title": "Kunlik xizmat",
+      "description": "To‘liq ish kuni davomida xizmat ko‘rsatish va kerakli ishlarni bajarish.",
+      "features": [
+        "8 soat xizmat",
+        "Ish kuni davomida yordam",
+        "Muammolarni tezkor hal qilish"
+      ]
+    },
+    "service-3": {
+      "title": "O‘rnatish",
+      "description": "Kerakli uskuna yoki dasturni o‘rnatish va dastlabki sozlash.",
+      "features": [
+        "O‘rnatish",
+        "Dastlabki sozlash",
+        "Ishlashini tekshirish"
+      ]
+    },
+    "service-4": {
+      "title": "Maslahat",
+      "description": "Mutaxassis maslahati, muammoni tahlil qilish va mos yechim topish.",
+      "features": [
+        "Mutaxassis maslahati",
+        "Muammoni tahlil qilish",
+        "Yechim bo‘yicha tavsiyalar"
+      ]
+    },
+    "service-5": {
+      "title": "Individual xizmat",
+      "description": "Mijozning individual talablariga muvofiq bajariladigan xizmat.",
+      "features": [
+        "Individual yondashuv",
+        "Maxsus talablar hisobga olinadi",
+        "Kelishuv asosida bajariladi"
+      ]
+    }
+  },
+  "steps": {
+    "one": "Xizmatni tanlang",
+    "two": "Hajmini kiriting",
+    "three": "Biz bilan bog‘laning"
+  },
+  "pick": "Xizmatni tanlang",
+  "included": "Nimalar kiradi",
+  "hoursLabel": "Soatlar soni",
+  "daysLabel": "Kunlar soni",
+  "unitHour": "soat",
+  "unitDay": "kun",
+  "total": "Taxminiy narx",
+  "totalNote": "Yakuniy narx buyurtma paytida kelishiladi.",
+  "fixed": "Qat‘iy narx",
+  "order": "Telegramda buyurtma berish",
+  "call": "Qo‘ng‘iroq qilish",
+  "msgHours": " {count} soatga",
+  "msgDays": " {count} kunga",
+  "message": "Assalomu alaykum! «{service}» xizmatiga buyurtma bermoqchiman{qty}. Taxminiy narx: {total} {currency}."
+}

@@ -1,0 +1,19 @@
+{
+  "search": "Mahsulotlarni qidirish",
+  "clear": "Tozalash",
+  "results": "{count} ta mahsulot",
+  "featured": "Tavsiya etamiz",
+  "details": "Batafsil",
+  "demo": "Demo",
+  "plans": "Tariflar",
+  "from": "dan",
+  "all": "Barcha mahsulotlar",
+  "noResults": "So‘rovingiz bo‘yicha hech narsa topilmadi",
+  "users": "Tarifga {count} ta foydalanuvchi kiradi",
+  "compareTitle": "Nimani tanlashni bilmayapsizmi?",
+  "compareText": "Barcha mahsulotlar tariflarini bitta jadvalda solishtirib, o‘zingizga mosini tanlang.",
+  "compareCta": "Tariflarni solishtirish",
+  "helpTitle": "Joriy etishda yordam kerakmi?",
+  "helpText": "O‘rnatish, sozlash va o‘rgatish: xizmatni tanlang va narxini darrov bilib oling.",
+  "helpCta": "Xizmatlarni ko‘rish"
+}

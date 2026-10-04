@@ -1,0 +1,63 @@
+{
+  "meta": {
+    "title": "Aloqa",
+    "description": "Savol, g‘oya yoki hamkorlik taklifingiz bormi? Xabar qoldiring — tez orada siz bilan bog‘lanamiz."
+  },
+  "badge": "Aloqa",
+  "title": "Keling, loyihangizni muhokama qilamiz",
+  "subtitle": "Savolingiz, g‘oyangiz yoki hamkorlik taklifingiz bormi? Xabar qoldiring — tez orada siz bilan bog‘lanamiz.",
+  "quick": { "telegram": "Telegramda yozish", "call": "Qo‘ng‘iroq qilish" },
+  "form": {
+    "title": "Xabar yuborish",
+    "subtitle": "Quyidagi formani to‘ldiring",
+    "topicLabel": "Mavzu turi",
+    "topics": {
+      "question": "Savol",
+      "partnership": "Hamkorlik",
+      "support": "Texnik yordam",
+      "other": "Boshqa"
+    },
+    "name": "Ismingiz",
+    "email": "Email",
+    "subject": "Mavzu",
+    "message": "Xabar",
+    "messagePlaceholder": "Nima haqida yozmoqchisiz?",
+    "send": "Yuborish",
+    "sending": "Yuborilmoqda…",
+    "errors": {
+      "nameRequired": "Ismingizni kiriting",
+      "emailRequired": "Emailni kiriting",
+      "emailInvalid": "Email noto‘g‘ri kiritilgan",
+      "subjectRequired": "Mavzuni kiriting",
+      "messageRequired": "Xabarni kiriting",
+      "messageShort": "Kamida {min} ta belgi yozing"
+    },
+    "error": "Yuborishda xatolik. Keyinroq urinib ko‘ring",
+    "success": {
+      "title": "Xabar yuborildi",
+      "text": "Rahmat! Xabaringizni oldik, tez orada siz bilan bog‘lanamiz.",
+      "again": "Yana xabar yuborish"
+    }
+  },
+  "channels": {
+    "title": "Boshqa yo‘llar",
+    "telegram": "Telegram",
+    "phone": "Telefon",
+    "email": "Email",
+    "address": "Manzil",
+    "addressValue": "Farg‘ona, O‘zbekiston",
+    "copy": "Nusxalash",
+    "copied": "Nusxalandi",
+    "openMap": "Xaritada ochish"
+  },
+  "hours": {
+    "title": "Ish vaqti",
+    "open": "Hozir ochiq",
+    "closed": "Hozir yopiq",
+    "weekdays": "Dushanba – Juma",
+    "saturday": "Shanba",
+    "sunday": "Yakshanba",
+    "dayOff": "Dam olish kuni",
+    "timezone": "Toshkent vaqti bilan"
+  }
+}

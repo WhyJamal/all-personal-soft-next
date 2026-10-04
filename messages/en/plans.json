@@ -1,0 +1,15 @@
+{
+  "title": "Pricing plans",
+  "subtitle": "Transparent terms and flexible plans for businesses of any size",
+  "period": "Billing period",
+  "months": "{count} mo",
+  "forPeriod": "for {count} mo",
+  "included": "What’s included",
+  "choose": "Choose plan",
+  "recommended": "Recommended",
+  "compare": "Compare plans",
+  "feature": "Features",
+  "empty": "No plans available yet",
+  "users": "{count, plural, one {# user} other {# users}} included",
+  "currency": "UZS"
+}

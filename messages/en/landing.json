@@ -1,0 +1,30 @@
+{
+  "features": {
+    "heading": "Built for finance teams",
+    "subheading": "From the first card to the final close, everything lives in one place.",
+    "feature1": {
+      "title": "All your data, connected",
+      "desc": "Import accounts, cards, and ledgers from any source in minutes."
+    },
+    "feature2": {
+      "title": "Always in sync",
+      "desc": "Balances and transactions update in real time across every device and teammate."
+    },
+    "feature3": {
+      "title": "Role-based access",
+      "desc": "Give each person exactly the permissions they need, with a full audit trail."
+    },
+    "feature4": {
+      "title": "One clear dashboard",
+      "desc": "Cash, spend, and forecasts on a single screen your whole team can read."
+    },
+    "feature5": {
+      "title": "Automation that works for you",
+      "desc": "Categorize expenses and match invoices without manual work."
+    },
+    "feature6": {
+      "title": "Forecasts you can trust",
+      "desc": "See runway and cash flow months ahead, updated as your numbers change."
+    }
+  }
+}

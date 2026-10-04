@@ -1,0 +1,21 @@
+{
+  "columns": {
+    "pages": "Sahifalar",
+    "socials": "Ijtimoiy tarmoqlar",
+    "legal": "Huquqiy",
+    "account": "Akkaunt"
+  },
+  "links": {
+    "products": "Mahsulotlar",
+    "features": "Imkoniyatlar",
+    "docs": "Hujjatlar",
+    "blog": "Blog",
+    "privacy": "Maxfiylik siyosati",
+    "terms": "Foydalanish shartlari",
+    "signUp": "Ro‘yxatdan o‘tish",
+    "login": "Kirish",
+    "profile": "Profil",
+    "contact": "Aloqa"
+  },
+  "copyright": "© {year} {brand}. Barcha huquqlar himoyalangan."
+}

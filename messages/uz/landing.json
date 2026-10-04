@@ -1,0 +1,30 @@
+{
+  "features": {
+    "heading": "Moliya jamoalari uchun yaratilgan",
+    "subheading": "Birinchi kartadan davrni yopishgacha — hammasi bir joyda.",
+    "feature1": {
+      "title": "Barcha ma'lumotlar bir joyda",
+      "desc": "Hisoblar, kartalar va buxgalteriya kitoblarini istalgan manbadan daqiqalarda import qiling."
+    },
+    "feature2": {
+      "title": "Doim sinxron",
+      "desc": "Qoldiqlar va tranzaksiyalar barcha qurilmalarda va butun jamoada real vaqtda yangilanadi."
+    },
+    "feature3": {
+      "title": "Rollar bo'yicha kirish",
+      "desc": "Har bir xodimga aynan kerakli huquqlarni bering, barcha harakatlar jurnalda saqlanadi."
+    },
+    "feature4": {
+      "title": "Bitta tushunarli panel",
+      "desc": "Pul, xarajatlar va prognozlar butun jamoa tushunadigan bitta ekranda."
+    },
+    "feature5": {
+      "title": "Qo'lda ishni kamaytiradigan avtomatlashtirish",
+      "desc": "Xarajatlarni toifalang va hisob-fakturalarni qo'lda ishlamasdan solishtiring."
+    },
+    "feature6": {
+      "title": "Ishonchli prognozlar",
+      "desc": "Zaxira muddati va pul oqimini oylar oldinga ko'ring — ma'lumotlar o'zi yangilanadi."
+    }
+  }
+}

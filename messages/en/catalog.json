@@ -1,0 +1,19 @@
+{
+  "search": "Search products",
+  "clear": "Clear",
+  "results": "{count, plural, one {# product} other {# products}}",
+  "featured": "Featured",
+  "details": "Learn more",
+  "demo": "Demo",
+  "plans": "Plans",
+  "from": "from",
+  "all": "All products",
+  "noResults": "Nothing matches your search",
+  "users": "{count, plural, one {# user} other {# users}} included",
+  "compareTitle": "Not sure what to choose?",
+  "compareText": "Compare the plans of every product in one table and pick the right one.",
+  "compareCta": "Compare plans",
+  "helpTitle": "Need help getting started?",
+  "helpText": "Installation, setup and training: pick a service and see the price right away.",
+  "helpCta": "See services"
+}

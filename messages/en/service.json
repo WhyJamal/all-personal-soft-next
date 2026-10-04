@@ -1,0 +1,81 @@
+{
+  "title": "Services",
+  "subtitle": "Pick the service you need. Price, duration and main terms are listed below.",
+  "cost": "Price",
+  "hourly": "per hour",
+  "daily": "per day",
+  "oneTime": "one-time payment",
+  "duration": "Duration",
+  "hour": "h",
+  "day": "days",
+  "contact": "Contact",
+  "questions": "Still have questions?",
+  "questionsText": "For details or to order a service, call us or write on Telegram.",
+  "currency": "UZS",
+  "items": {
+    "service-1": {
+      "title": "Technical support",
+      "description": "Equipment checks, setup and technical work.",
+      "features": [
+        "Equipment inspection",
+        "Fault diagnosis",
+        "Setup and technical help"
+      ]
+    },
+    "service-2": {
+      "title": "Daily support",
+      "description": "A full working day of support and any required work.",
+      "features": [
+        "8 hours of support",
+        "Help throughout the working day",
+        "Quick problem solving"
+      ]
+    },
+    "service-3": {
+      "title": "Installation",
+      "description": "Installation and initial setup of the required equipment or software.",
+      "features": [
+        "Installation",
+        "Initial setup",
+        "Functionality check"
+      ]
+    },
+    "service-4": {
+      "title": "Consultation",
+      "description": "Specialist consultation, problem analysis and finding a suitable solution.",
+      "features": [
+        "Specialist consultation",
+        "Problem analysis",
+        "Recommendations"
+      ]
+    },
+    "service-5": {
+      "title": "Custom service",
+      "description": "A service tailored to the client’s individual requirements.",
+      "features": [
+        "Individual approach",
+        "Special requirements considered",
+        "Done by agreement"
+      ]
+    }
+  },
+  "steps": {
+    "one": "Pick a service",
+    "two": "Set the amount",
+    "three": "Get in touch"
+  },
+  "pick": "Choose a service",
+  "included": "What’s included",
+  "hoursLabel": "Number of hours",
+  "daysLabel": "Number of days",
+  "unitHour": "h",
+  "unitDay": "days",
+  "total": "Estimated price",
+  "totalNote": "We’ll confirm the final price when you order.",
+  "fixed": "Fixed price",
+  "order": "Order on Telegram",
+  "call": "Call",
+  "msgHours": " for {count} h",
+  "msgDays": " for {count} days",
+  "message": "Hello! I’d like to order the service “{service}”{qty}. Estimated price: {total} {currency}."
+}

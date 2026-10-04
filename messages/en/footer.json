@@ -1,0 +1,20 @@
+{
+  "tagline": "One home for cards, payments, and forecasting.",
+  "copyright": "© {year} Altitude. All rights reserved.",
+  "socialLabel": "Social media",
+  "columns": {
+    "product": "Product",
+    "company": "Company"
+  },
+  "links": {
+    "features": "Features",
+    "pricing": "Pricing",
+    "docs": "Docs",
+    "blog": "Blog",
+    "about": "About",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "products": "Products"
+  }
+}

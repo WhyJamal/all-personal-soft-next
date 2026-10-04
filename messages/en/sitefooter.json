@@ -1,0 +1,21 @@
+{
+  "columns": {
+    "pages": "Pages",
+    "socials": "Socials",
+    "legal": "Legal",
+    "account": "Account"
+  },
+  "links": {
+    "products": "Products",
+    "features": "Features",
+    "docs": "Docs",
+    "blog": "Blog",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "signUp": "Sign up",
+    "login": "Log in",
+    "profile": "Profile",
+    "contact": "Contact"
+  },
+  "copyright": "© {year} {brand}. All rights reserved."
+}

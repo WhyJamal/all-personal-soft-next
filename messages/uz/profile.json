@@ -1,0 +1,76 @@
+{
+  "title": "Profil",
+  "tabs": {
+    "overview": "Umumiy",
+    "products": "Mahsulotlar",
+    "settings": "Sozlamalar"
+  },
+  "hero": {
+    "edit": "Tahrirlash",
+    "noBio": "Sozlamalarda o‘zingiz haqingizda yozing"
+  },
+  "days": "{count} kun",
+  "stats": {
+    "balance": "Hamyon balansi",
+    "currency": "so‘m",
+    "active": "Faol mahsulotlar",
+    "ofTotal": "{total} tadan",
+    "next": "Eng yaqin tugash",
+    "none": "Faol yo‘q",
+    "promo": "Sizning promokodingiz",
+    "copy": "Nusxalash",
+    "copied": "Nusxalandi",
+    "org": "Tashkilot",
+    "inn": "STIR",
+    "address": "Manzil",
+    "soon": "Tez orada tugaydi",
+    "viewAll": "Barcha mahsulotlar",
+    "topUp": "To‘ldirish"
+  },
+  "products": {
+    "all": "Hammasi",
+    "active": "Faol",
+    "expired": "Tugagan",
+    "empty": "Hozircha bo‘sh",
+    "until": "{date} gacha",
+    "open": "Ochish",
+    "status": {
+      "active": "Faol",
+      "expiring": "Tez orada tugaydi",
+      "expired": "Tugagan"
+    }
+  },
+  "settings": {
+    "profile": "Profil",
+    "security": "Xavfsizlik",
+    "photo": "Rasm",
+    "upload": "Yuklash",
+    "remove": "O‘chirish",
+    "photoHint": "JPG, PNG yoki WebP, 5 MB gacha",
+    "username": "Ism",
+    "email": "Email",
+    "phone": "Telefon",
+    "bio": "O‘zim haqimda",
+    "bioPh": "Siz haqingizda bir-ikki so‘z",
+    "password": "Yangi parol",
+    "passwordHint": "O‘zgartirmaslik uchun bo‘sh qoldiring",
+    "confirm": "Parolni takrorlang",
+    "save": "Saqlash",
+    "saved": "Saqlandi",
+    "errors": {
+      "required": "Majburiy maydon",
+      "emailInvalid": "Email noto‘g‘ri",
+      "passwordShort": "Kamida 8 ta belgi",
+      "mismatch": "Parollar mos kelmadi",
+      "avatarInvalid": "5 MB gacha rasm tanlang",
+      "VALIDATION": "Kiritilgan ma’lumotlarni tekshiring",
+      "NETWORK": "Serverga ulanib bo‘lmadi",
+      "UNAUTHORIZED": "Sessiya tugadi, qayta kiring",
+      "REQUEST_FAILED": "Saqlab bo‘lmadi. Email band bo‘lishi mumkin"
+    }
+  },
+  "error": {
+    "title": "Profilni yuklab bo‘lmadi",
+    "retry": "Qayta urinish"
+  }
+}

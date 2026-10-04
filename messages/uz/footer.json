@@ -1,0 +1,20 @@
+{
+  "tagline": "Kartalar, to'lovlar va prognozlar bitta joyda.",
+  "copyright": "© {year} Altitude. Barcha huquqlar himoyalangan.",
+  "socialLabel": "Ijtimoiy tarmoqlar",
+  "columns": {
+    "product": "Mahsulot",
+    "company": "Kompaniya"
+  },
+  "links": {
+    "features": "Imkoniyatlar",
+    "pricing": "Narxlar",
+    "docs": "Hujjatlar",
+    "blog": "Blog",
+    "about": "Biz haqimizda",
+    "contact": "Aloqa",
+    "privacy": "Maxfiylik",
+    "terms": "Shartlar",
+    "products": "Mahsulotlar"
+  }
+}
