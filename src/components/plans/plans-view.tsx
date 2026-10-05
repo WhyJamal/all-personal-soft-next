@@ -110,6 +110,11 @@ export function PlansView({ products, features }: { products: ProductItem[]; fea
             {products.length > 1 && (
               <Segmented id="plans-product" items={products.map((p) => ({ value: p.id, label: p.title }))} value={productId} onChange={setProductId} />
             )}
+            {product && (
+              <h2 className="text-center text-2xl font-semibold tracking-tight text-zinc-900 md:text-3xl">
+                <span className="text-sky-600">{product.title}</span>
+              </h2>
+            )}
             <div className="flex flex-col items-center gap-2">
               <span className="text-xs font-medium text-zinc-400">{t("period")}</span>
               <Segmented id="plans-period" items={PERIODS.map((p) => ({ value: p, label: t("months", { count: p }) }))} value={period} onChange={setPeriod} />
@@ -131,7 +136,10 @@ export function PlansView({ products, features }: { products: ProductItem[]; fea
                   const body = (
                     <div className="flex h-full flex-col p-7">
                       <div className="flex items-center justify-between gap-3">
-                        <h2 className="text-sm font-semibold uppercase tracking-wide text-zinc-900">{pl.name}</h2>
+                        <div className="min-w-0">
+                        <p className="truncate text-xs font-medium text-sky-600">{product!.title}</p>
+                        <h3 className="text-sm font-semibold uppercase tracking-wide text-zinc-900">{pl.name}</h3>
+                      </div>
                         {pl.highlight && <span className="rounded-full bg-sky-600 px-2.5 py-1 text-xs font-semibold text-white">{t("recommended")}</span>}
                       </div>
 
