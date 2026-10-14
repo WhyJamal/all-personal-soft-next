@@ -39,7 +39,21 @@ export async function Footer() {
                 <Logo />
                 <span className="text-[15px] font-semibold text-white">{brand}</span>
               </Link>
-              <p className="mt-5 text-sm text-zinc-500">{t("copyright", { year: currentYear(), brand })}</p>
+              <p className="mt-5 text-sm text-zinc-500">
+                {t("copyright", { year: currentYear(), brand })}
+              </p>
+
+              <p className="mt-2 text-xs text-zinc-600">
+                Developed by{" "}
+                <a
+                  href="https://t.me/atabekvic"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="font-medium text-zinc-400 transition-colors hover:text-white"
+                >
+                  Gulomov Sayyod 
+                </a>
+              </p>
             </div>
 
             {/* Columns */}
